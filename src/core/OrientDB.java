@@ -37,6 +37,7 @@ public class OrientDB {
 		ODocument oDocument = result.get(0);
 		
 		System.out.println(oDocument.field("name"));
+		System.out.println("Hi, It's Boxcar Testing stuff ...");
 			  
 		
 	}
